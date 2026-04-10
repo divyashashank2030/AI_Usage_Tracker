@@ -107,6 +107,10 @@ streamlit run dashboard.py
 ## Demo Video
 ![Click here to watch the demo](./AI_Usage_Tracker_Dashboard.mp4)
 
+or
+
+![Click here to watch the demo](https://github.com/divyashashank2030/AI_Usage_Tracker/blob/main/AI_Usage_Tracker_Dashboard.mp4)
+
 ---
 
 ## Author
