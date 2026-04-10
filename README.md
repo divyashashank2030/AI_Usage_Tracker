@@ -105,7 +105,7 @@ streamlit run dashboard.py
 ---
 
 ## Demo Video
-(Add your demo video link here)
+![Click here to watch the demo](./AI_Usage_Tracker_Dashboard.mp4)
 
 ---
 
