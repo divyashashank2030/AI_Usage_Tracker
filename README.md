@@ -111,6 +111,10 @@ or
 
 ![Click here to watch the demo](https://github.com/divyashashank2030/AI_Usage_Tracker/blob/main/AI_Usage_Tracker_Dashboard.mp4)
 
+
+## To watch it on Google Drive, click here
+![Click here to watch the demo](https://drive.google.com/file/d/1_traOv7BbJ5t9L4EUiYxcCOKNlv1A3g0/view?usp=sharing)
+
 ---
 
 ## Author
